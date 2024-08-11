@@ -7,7 +7,10 @@ programa "Fatiador de Vídeos":
   <img src="https://github.com/user-attachments/assets/86793f40-c85d-40da-8f42-ec0dc0e414ee" alt="image" width="45%" />
 </div>
 
-![image](https://github.com/user-attachments/assets/047bd77b-3d50-44d3-8822-6064b168eef9)
+<br />
+
+<img src="https://github.com/user-attachments/assets/047bd77b-3d50-44d3-8822-6064b168eef9" alt="image" width="100%" />
+
 
 
 ---
